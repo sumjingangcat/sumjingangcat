@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Juhan Oh👋
+## MS/PhD Integrated Student in UNIST
+
+- 👀 I focus on 3D reconstruction suitable for both physical simulation and high-fidelity rendering.
+- 🌱 I’m currently learning computer vision and graphics.
+- 📫 My email: juhan.oh@unist.ac.kr
 
 <!--
 **sumjingangcat/sumjingangcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
